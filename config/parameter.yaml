@@ -1,0 +1,5 @@
+goal_pose.x: 1
+goal_pose.y: 1
+tolerance: 0.5
+phi: 1
+beta: 1
